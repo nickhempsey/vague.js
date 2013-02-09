@@ -1,6 +1,6 @@
 /**
 *
-* Version: 0.0.1
+* Version: 0.0.2
 * Author: Gianluca Guarini
 * Contact: gianluca.guarini@gmail.com
 * Website: http://www.gianlucaguarini.com/
@@ -60,7 +60,7 @@
 		*
 		*/
 
-		//start out unblurred, amiright?
+	
 		var blurred = false;
 
 		/*
