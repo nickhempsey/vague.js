@@ -29,7 +29,8 @@ Vague.js is an experimental script that allows you to blur any kind of html elem
 
 - <code>blur</code> : blur the element selected.
 - <code>unblur</code> : unblur the element selected.
-- <code>destroy</code> : fires the unblur event and removes the svg filter from the DOM (whether it is needed)
+- <code>toggleblur</code> : combines the two methods above with a toggle
+- <code>destroy</code> : triggers the unblur event and removes the svg filter from the DOM (whether it is needed)
 
 ----------
 #KNOWN ISSUES
